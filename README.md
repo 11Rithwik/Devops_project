@@ -1,2 +1,19 @@
-# Devops_project
-This is all about docker and jenkins
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
